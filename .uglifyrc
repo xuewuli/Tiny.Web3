@@ -1,0 +1,5 @@
+{
+  "mangle": {
+    "reserved": ["TinyWeb3Provider"]
+  }
+}
